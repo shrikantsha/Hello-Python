@@ -1,0 +1,9 @@
+# Here we ll start with the command print.
+# print is use with parantheses ()
+# Print command use to display the words in parantheses
+# command Print ()
+# following is example
+print ("Hello Python") 
+# In above line Print is command. "Hello Python" is the string which we want to see as output.
+# to see the output press shift + enter
+# Output will be    Hello Python
